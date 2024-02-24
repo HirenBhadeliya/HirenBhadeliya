@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiren Bhadeliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently working **React JS, Node JS**
 
 - 💬 Ask me about **react**
 
