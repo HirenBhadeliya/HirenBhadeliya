@@ -59,8 +59,6 @@ A comprehensive real-estate ecosystem with AR-based building scanning, deep prop
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Firebase · Flutter · Google Maps API
 
-**Access:** Admin Panel | Front-End Demo | App Demo
-
 ---
 
 ### **Petroleum CRM – Multi-Branch Fuel & Billing System** ⛽
@@ -78,6 +76,8 @@ Enterprise CRM solution designed for petrol pump chains managing dynamic rates, 
 - P&L and detailed sales reports
 
 **Tech Stack:** Laravel · MySQL · Vue.js · JavaScript
+
+**Access:** Admin Panel Demo
 
 ---
 
@@ -97,6 +97,8 @@ Real-time GPS tracking system with AI-based analytics, scheduling, driver monito
 
 **Tech Stack:** Laravel · MySQL · Vue.js · Python · Leaflet/OSM
 
+**Access:** Admin Panel Demo | Public Live Map
+
 ---
 
 ### **Pass Tooling – B2B E-Commerce Platform** 🛒
@@ -115,6 +117,8 @@ Custom B2B e-commerce system with complete cart-to-checkout workflow, product va
 - Private & public REST APIs
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Stripe · UPS · QuickBooks
+
+**Access:** Admin Panel Demo | Front-End Demo
 
 ---
 
@@ -138,12 +142,13 @@ Comprehensive finance management system for loan account creation, EMI schedulin
 ## 💼 Professional Experience
 
 **Digitize Infosystem** — Full-Stack Developer *(Mar 2023 – Present)*
-- Developed responsive, user-friendly websites using HTML, CSS, JavaScript, and WordPress
-- Created custom themes, animations, and CMS solutions with focus on performance and clean UI
+- Full-stack developer building production-ready applications using MERN and Laravel
+- Skilled in clean frontend interfaces, scalable backend architectures, REST APIs, and database design
+- Focus on end-to-end deployment and modern JavaScript development
 
 **Ableye Technologies** — Web / WordPress Developer *(Aug 2021 – Feb 2023)*
-- Built custom WordPress websites and managed content management systems
-- Enhanced UI, performance, and ensured responsive design across all devices
+- Developed responsive, user-friendly websites using HTML, CSS, JavaScript, and WordPress
+- Created custom themes, animations, and CMS solutions with focus on performance and clean UI
 
 ---
 
