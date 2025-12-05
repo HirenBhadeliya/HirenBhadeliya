@@ -1,92 +1,117 @@
-# 👋 Hi, I'm Hiren Bhadeliya  
-### 🚀 Full-Stack Developer (MERN & Laravel)
+<h1 align="center">Hi 👋, I'm Hiren Bhadeliya</h1>
+<h3 align="center">Full-Stack Developer (MERN & Laravel)</h3>
 
-I’m a full-stack developer with **4+ years of experience** building production-ready applications using **MERN** and **Laravel**.  
-I specialize in **clean UI**, **scalable backend architecture**, **REST APIs**, and **end-to-end deployment**.  
-Focused, fast-learner, and always improving my JavaScript fundamentals.
-
----
-
-## 🧠 Tech Stack
-
-### **Frontend**
-- React.js, JavaScript (ES6+), TypeScript  
-- Redux, HTML5, CSS3, Tailwind CSS, Bootstrap  
-
-### **Backend**
-- Node.js, Express.js, Laravel  
-- REST API Development, Authentication, Role Management  
-
-### **Databases**
-- MongoDB, MySQL, Firebase  
-
-### **Tools**
-- Git, GitHub/GitLab, VS Code, Jira, Postman  
+I'm a full-stack developer with **4+ years of experience** delivering production-ready applications using  
+**React, Node.js, Express, MongoDB, Laravel, MySQL, and REST APIs**.  
+I specialize in building clean frontends, stable backend architectures, robust APIs, and end-to-end deployments.
 
 ---
 
-# 🏆 Major Projects (MERN & Laravel)
-
-### 🔹 **PropTy AR – Real Estate Platform**
-**A complete real-estate ecosystem with AR-based property scanning**  
-- AR building scan, agent panel, property structuring  
-- Google Maps integration (drag & drop), geo-radius search  
-- Bulk upload, Firebase notifications  
-**Tech:** React, Node, Express, MongoDB, Flutter, Firebase  
+## 🔹 About Me
+- 🔭 Currently working with **MERN Stack & Laravel**
+- 🌱 Improving skills in **system architecture, API design & performance optimization**
+- 💬 Ask me about **React, Node.js, Laravel, JavaScript, REST APIs**
+- 📫 Email: **bhadeliyahiren.dev@gmail.com**
+- 🌍 Location: **Rajkot, Gujarat, India**
 
 ---
 
-### 🔹 **Petroleum CRM – Multi-Branch Fuel & Billing System**
-A CRM for petrol pumps with billing, dynamic rates, inventory & financial workflow.  
-- Roles/permissions, sales & billing, auto inventory updates  
-- Customer credit flow, expense & loan module, reporting  
+# 🛠️ Technical Skills  
+*(Taken exactly from your resume)*  
+
+## **Frontend**
+- React.js  
+- JavaScript (ES6+), TypeScript  
+- Redux  
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap  
+
+## **Backend**
+- Node.js  
+- Express.js  
+- Laravel  
+- REST APIs, Authentication  
+
+## **Databases**
+- MongoDB  
+- MySQL  
+- Firebase  
+
+## **Tools**
+- Git • GitHub • GitLab  
+- VS Code  
+- Postman  
+- Jira  
+
+---
+
+# 🏆 Major Projects  
+*(Full details from your resume)*  
+
+### **PropTy AR – Real Estate Platform**
+A real-estate ecosystem with AR building scanning, deep property structuring, agent workflows & Google Maps.  
+**Tech:** React, Node.js, Express, MongoDB, Firebase, Flutter  
+
+---
+
+### **Petroleum CRM – Multi-Branch Fuel & Billing System**
+CRM for petrol pumps managing rates, stock, sales, billing, returns, expenses & reporting.  
 **Tech:** Laravel, MySQL, Vue.js  
 
 ---
 
-### 🔹 **Smart Bus Tracking & Route Management**
-Real-time bus tracking with GPS streaming & AI headcount.  
-- Live bus map with ETA  
-- Route management, scheduling, bus assignment  
-- AI-based passenger counting (Python → Laravel)  
+### **Smart Bus Tracking & Route Management**
+Real-time GPS bus tracking with AI headcount, public live map & scheduling.  
 **Tech:** Laravel, MySQL, Vue.js, Python  
 
 ---
 
-### 🔹 **Pass Tooling – B2B E-Commerce Platform**
-A custom B2B e-commerce solution with advanced checkout and business rules.  
-- Product variations, bulk upload  
-- UPS shipping, Stripe, QuickBooks, Net-30 payments  
-**Tech:** React, Node, MongoDB  
+### **Pass Tooling – B2B E-Commerce Platform**
+Custom B2B platform with variations, UPS shipping, Stripe/QuickBooks, CMS & JWT/OAuth2 APIs.  
+**Tech:** React, Node.js, Express, MongoDB  
 
 ---
 
-# 🌐 Additional Web Projects (WordPress & Core PHP)
+# 🌐 Additional Projects
 
-### Core PHP Websites  
-Altosa Group, Shilpan Builder, Hotel Panchvati Comforts  
-**Links:** altosagroup.in | shilpan.in | panchvaticomforts.com  
+### **Core PHP Websites**
+Altosa Group • Shilpan Builder • Hotel Panchvati Comforts  
 
-### WordPress Websites  
-Uratom, SSPL – Shilpan Steelcast, LendingUSA, Huvabuva, Socal Dental Wellness  
-**Links:** uratom.com | shilpansteelcast.com | lendingusa.com | huvabuva.com | socaldentalwellness.com  
+### **WordPress Websites**
+Uratom • SSPL • LendingUSA • Huvabuva • Socal Dental Wellness  
 
----
-
-# 🎓 Education  
-**B.COM — Jasani Arts & Commerce College (2020–2023)**  
-Saurashtra University
+### **Finance CRM – Loan & Expense System**
+Loan & EMI system with documents, expenses & automated reminders.  
+**Tech:** Laravel, MySQL, React.js, Vue.js  
 
 ---
 
-# 📬 Contact Me  
-📍 Rajkot, Gujarat, India  
+# 💼 Experience  
+*(As per your resume)*  
+
+### **Digitize Infosystem — Full-Stack Developer**  
+📅 Mar 2023 – Present  
+- Developed responsive websites using HTML, CSS, JavaScript & WordPress  
+- Created custom themes, animations & CMS solutions  
+
+### **Ableye Technologies — Web / WordPress Developer**  
+📅 Aug 2021 – Feb 2023  
+- Developed WordPress & custom CMS websites with a focus on UI & performance  
+
+---
+
+# 🎓 Education
+**B.COM – Jasani Arts & Commerce College (2020–2023)**  
+Saurashtra University  
+
+---
+
+# 📬 Contact
+📍 Rajkot, Gujarat  
 📧 **bhadeliyahiren.dev@gmail.com**  
-📞 **+91 9316227441**  
-🔗 **LinkedIn:** linkedin.com/in/hiren-bhadeliya  
-🔗 **Portfolio / GitHub:** github.com/HirenBhadeliya19  
+🔗 **LinkedIn:** https://linkedin.com/in/hiren-bhadeliya  
+🔗 **GitHub:** https://github.com/HirenBhadeliya19  
 
 ---
 
-### ⭐ If you like my work, feel free to star my repositories or connect with me!
-
+<h4 align="center">⭐ Thanks for visiting my profile!</h4>
