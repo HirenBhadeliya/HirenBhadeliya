@@ -135,16 +135,6 @@ Comprehensive finance management system for loan account creation, EMI schedulin
 
 ---
 
-## 🌐 Additional Web Projects
-
-**WordPress Websites:**  
-Uratom · SSPL Shilpan Steelcast · LendingUSA · Huvabuva · Socal Dental Wellness
-
-**Core PHP / Animated Websites:**  
-Altosa Group · Shilpan Builder · Hotel Panchvati Comforts
-
----
-
 ## 💼 Professional Experience
 
 **Digitize Infosystem** — Full-Stack Developer *(Mar 2023 – Present)*
