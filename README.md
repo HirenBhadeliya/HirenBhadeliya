@@ -79,8 +79,6 @@ Enterprise CRM solution designed for petrol pump chains managing dynamic rates, 
 
 **Tech Stack:** Laravel · MySQL · Vue.js · JavaScript
 
-**Access:** Admin Panel Demo
-
 ---
 
 ### **Smart Bus Tracking & Route Management System** 🚌
@@ -98,8 +96,6 @@ Real-time GPS tracking system with AI-based analytics, scheduling, driver monito
 - Cron-based continuous GPS polling
 
 **Tech Stack:** Laravel · MySQL · Vue.js · Python · Leaflet/OSM
-
-**Access:** Admin Panel Demo | Public Live Map
 
 ---
 
@@ -120,8 +116,6 @@ Custom B2B e-commerce system with complete cart-to-checkout workflow, product va
 
 **Tech Stack:** React · Node.js · Express · MongoDB · Stripe · UPS · QuickBooks
 
-**Access:** Admin Panel Demo | Front-End Demo
-
 ---
 
 ### **Finance CRM – Loan & Expense Management System** 💰
@@ -138,8 +132,6 @@ Comprehensive finance management system for loan account creation, EMI schedulin
 - JWT authentication
 
 **Tech Stack:** Laravel · MySQL · React.js · Vue.js
-
-**Access:** Admin Panel Demo | Mobile App Demo
 
 ---
 
