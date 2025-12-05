@@ -1,73 +1,76 @@
 <h1 align="center">Hi 👋, I'm Hiren Bhadeliya</h1>
 <h3 align="center">Full-Stack Developer (MERN & Laravel)</h3>
 
-I'm a full-stack developer with **4+ years of experience** delivering production-ready applications using  
-**React, Node.js, Express, MongoDB, Laravel, MySQL, and REST APIs**.  
-I specialize in building clean frontends, stable backend architectures, robust APIs, and end-to-end deployments.
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=files&logoColor=white" />
+  </a>
+</p>
+
+I'm a full-stack developer with **4+ years of experience** delivering production-ready applications using React, Node.js, Express, MongoDB, Laravel, and MySQL.  
+I specialize in clean UI, scalable backend architecture, REST APIs, and end-to-end deployment.
 
 ---
 
 ## 🔹 About Me
-- 🔭 Currently working with **MERN Stack & Laravel**
-- 🌱 Improving skills in **system architecture, API design & performance optimization**
-- 💬 Ask me about **React, Node.js, Laravel, JavaScript, REST APIs**
+- 🔭 Working on **MERN & Laravel projects**
+- 🌱 Learning **system architecture & API design**
+- 💬 Ask me about **React, Node.js, Laravel, REST APIs**
 - 📫 Email: **bhadeliyahiren.dev@gmail.com**
-- 🌍 Location: **Rajkot, Gujarat, India**
+- 📍 Rajkot, Gujarat, India
 
 ---
 
-# 🛠️ Technical Skills  
-*(Taken exactly from your resume)*  
+# 🛠️ Technical Skills
 
-## **Frontend**
+### **Frontend**
 - React.js  
 - JavaScript (ES6+), TypeScript  
 - Redux  
 - HTML5, CSS3  
 - Tailwind CSS, Bootstrap  
 
-## **Backend**
+### **Backend**
 - Node.js  
 - Express.js  
 - Laravel  
 - REST APIs, Authentication  
 
-## **Databases**
+### **Databases**
 - MongoDB  
 - MySQL  
 - Firebase  
 
-## **Tools**
-- Git • GitHub • GitLab  
+### **Tools**
+- Git, GitHub, GitLab  
 - VS Code  
 - Postman  
 - Jira  
 
 ---
 
-# 🏆 Major Projects  
-*(Full details from your resume)*  
+# 🏆 Major Projects
 
 ### **PropTy AR – Real Estate Platform**
-A real-estate ecosystem with AR building scanning, deep property structuring, agent workflows & Google Maps.  
+A real-estate system with AR building scanning, property structuring, agent panel, Google Maps integration, and mobile APIs.  
 **Tech:** React, Node.js, Express, MongoDB, Firebase, Flutter  
 
 ---
 
 ### **Petroleum CRM – Multi-Branch Fuel & Billing System**
-CRM for petrol pumps managing rates, stock, sales, billing, returns, expenses & reporting.  
+A CRM for petrol pumps managing rates, stock, billing, sales, returns, expenses, loans, and reporting.  
 **Tech:** Laravel, MySQL, Vue.js  
 
 ---
 
 ### **Smart Bus Tracking & Route Management**
-Real-time GPS bus tracking with AI headcount, public live map & scheduling.  
+Real-time bus tracking with GPS streaming, AI-based passenger headcount, scheduling, and public live map.  
 **Tech:** Laravel, MySQL, Vue.js, Python  
 
 ---
 
 ### **Pass Tooling – B2B E-Commerce Platform**
-Custom B2B platform with variations, UPS shipping, Stripe/QuickBooks, CMS & JWT/OAuth2 APIs.  
+Custom B2B e-commerce system with product variations, UPS shipping, Stripe/QuickBooks integration, CMS, and JWT/OAuth2 APIs.  
 **Tech:** React, Node.js, Express, MongoDB  
 
 ---
@@ -81,22 +84,22 @@ Altosa Group • Shilpan Builder • Hotel Panchvati Comforts
 Uratom • SSPL • LendingUSA • Huvabuva • Socal Dental Wellness  
 
 ### **Finance CRM – Loan & Expense System**
-Loan & EMI system with documents, expenses & automated reminders.  
+Loan & EMI management system with documents, savings, expenses, and automated reminders.  
 **Tech:** Laravel, MySQL, React.js, Vue.js  
 
 ---
 
-# 💼 Experience  
-*(As per your resume)*  
+# 💼 Experience
 
 ### **Digitize Infosystem — Full-Stack Developer**  
-📅 Mar 2023 – Present  
-- Developed responsive websites using HTML, CSS, JavaScript & WordPress  
-- Created custom themes, animations & CMS solutions  
+**Mar 2023 – Present**  
+- Built responsive websites using HTML, CSS, JavaScript, and WordPress  
+- Developed custom themes, animations, and CMS solutions  
 
 ### **Ableye Technologies — Web / WordPress Developer**  
-📅 Aug 2021 – Feb 2023  
-- Developed WordPress & custom CMS websites with a focus on UI & performance  
+**Aug 2021 – Feb 2023**  
+- Built custom WordPress websites and CMS solutions  
+- Focused on performance, UI, and responsive layouts  
 
 ---
 
@@ -107,11 +110,11 @@ Saurashtra University
 ---
 
 # 📬 Contact
-📍 Rajkot, Gujarat  
+📍 Rajkot, Gujarat, India  
 📧 **bhadeliyahiren.dev@gmail.com**  
 🔗 **LinkedIn:** https://linkedin.com/in/hiren-bhadeliya  
 🔗 **GitHub:** https://github.com/HirenBhadeliya19  
 
 ---
 
-<h4 align="center">⭐ Thanks for visiting my profile!</h4>
+<p align="center">⭐ Thanks for visiting my profile!</p>
