@@ -1,185 +1,170 @@
-<h1 align="center">👋 Hi, I'm Hiren Bhadeliya</h1>
-<h3 align="center">Full-Stack Developer | MERN & Laravel</h3>
+<div align="center">
 
-<p align="center">
-  <em>4+ years building production-ready web applications</em>
-</p>
+# 👋 Hi, I'm **Hiren Bhadeliya**
+### Full-Stack Developer | MERN & Laravel  
+**Building scalable full-stack applications with MERN & Laravel**
 
-<p align="center">
-  <a href="https://linkedin.com/in/hiren-bhadeliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhadeliyahiren.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HirenBhadeliya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiren-bhadeliya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhadeliyahiren.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HirenBhadeliya)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full-stack developer with 4+ years of experience in **MERN** and **Laravel**. I build clean, scalable web applications with focus on backend architecture, REST APIs, and responsive frontend design.
+Full-stack developer with 4+ years of experience in **MERN** and **Laravel**.  
+I focus on building clean, scalable systems — strong backend architecture, REST APIs,  
+and responsive, modern frontends.
 
-- 📍 **Location:** Rajkot, Gujarat, India
-- 📧 **Email:** bhadeliyahiren.dev@gmail.com
-- 📱 **Phone:** +91 9316227441
+- 📍 Rajkot, Gujarat, India  
+- 📧 bhadeliyahiren.dev@gmail.com  
+- 📱 +91 9316227441  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend:** React.js, JavaScript (ES6+), TypeScript, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, Vue.js
+### **Frontend**
+- React.js  
+- JavaScript (ES6+), TypeScript  
+- Redux, Context API  
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap  
+- Vue.js  
 
-**Backend:** Node.js, Express.js, Laravel, REST APIs, JWT & OAuth2 Authentication
+### **Backend**
+- Node.js, Express.js  
+- Laravel  
+- RESTful APIs  
+- JWT & OAuth2 Authentication  
 
-**Databases:** MongoDB, MySQL, Firebase
+### **Databases**
+- MongoDB  
+- MySQL  
+- Firebase  
 
-**Tools:** Git, GitHub, GitLab, VS Code, Postman, Jira
-
-**Other:** WordPress, Core PHP, Stripe, Google Maps, UPS Shipping, QuickBooks
+### **Tools**
+- Git, GitHub, GitLab  
+- VS Code  
+- Postman  
+- Jira  
 
 ---
 
 ## 🎯 Major Projects
 
-### **PropTy AR – Real Estate Platform** 🏠
-A comprehensive real-estate ecosystem with AR-based building scanning, deep property structuring, Google Maps integration, agent workflows, and APIs powering a Flutter mobile application.
+### **PropTy AR – Real Estate Platform** 🏠  
+AR-enabled real estate ecosystem with advanced mapping & Flutter APIs.
 
-**Key Features:**
-- AR-based building scanning and property visualization
-- Admin & agent panel with role-based access
-- Property CRUD with advanced structure mapping
-- Google Maps drag-drop mapping with geo-radius search
-- Bulk property & image uploads
-- Firebase push notifications and email alerts
-- Flutter mobile APIs for seamless mobile experience
+**Key Features**
+- AR property scanning  
+- Admin & Agent dashboards  
+- Property structure mapping  
+- Google Maps drag-drop + radius search  
+- Bulk uploads  
+- Firebase notifications  
+- Flutter API integration  
 
-**Tech Stack:** React · Node.js · Express · MongoDB · Firebase · Flutter · Google Maps API
-
----
-
-### **Petroleum CRM – Multi-Branch Fuel & Billing System** ⛽
-Enterprise CRM solution designed for petrol pump chains managing dynamic rates, stock updates, sales, billing, payments, returns, expenses, loans, and comprehensive financial reporting.
-
-**Key Features:**
-- Multi-branch management with role-based permissions
-- Dynamic product and rate setup
-- Purchase-to-inventory automated workflow
-- Daily fuel sales & billing system
-- Customer credit management and tracking
-- Supplier outstanding history
-- Return workflows with automatic stock updates
-- Expense & loan management modules
-- P&L and detailed sales reports
-
-**Tech Stack:** Laravel · MySQL · Vue.js · JavaScript
-
-**Access:** Admin Panel Demo
+**Tech Stack**: React · Node.js · Express · MongoDB · Firebase · Flutter · Google Maps  
 
 ---
 
-### **Smart Bus Tracking & Route Management System** 🚌
-Real-time GPS tracking system with AI-based analytics, scheduling, driver monitoring, and live public tracking map for comprehensive route management.
+### **Petroleum CRM – Fuel & Billing Management System** ⛽  
+Multi-branch CRM for petrol pump management and financial operations.
 
-**Key Features:**
-- Real-time GPS tracking with ETA calculations
-- Route & stop management
-- Bus assignment & scheduling
-- AI-based passenger headcount (Python integration)
-- Driver & vehicle monitoring dashboard
-- Public live map visualization (Leaflet/OSM)
-- Bus status and performance analytics
-- KM, ferries, and passenger metrics
-- Cron-based continuous GPS polling
+**Key Features**
+- Multi-branch control with roles  
+- Dynamic pricing engine  
+- Purchase → Stock workflow  
+- Daily billing & sales  
+- Outstanding & credit tracking  
+- Loan & expense modules  
+- P&L & sales reports  
 
-**Tech Stack:** Laravel · MySQL · Vue.js · Python · Leaflet/OSM
-
-**Access:** Admin Panel Demo | Public Live Map
+**Tech Stack**: Laravel · MySQL · Vue.js  
 
 ---
 
-### **Pass Tooling – B2B E-Commerce Platform** 🛒
-Custom B2B e-commerce system with complete cart-to-checkout workflow, product variations, CMS pages, advanced shipping integration, and flexible payment processing.
+### **Smart Bus Tracking & Route Management** 🚌  
+GPS-based live bus tracking with AI passenger count.
 
-**Key Features:**
-- Role-based admin panel with comprehensive controls
-- Product & variation management
-- Bulk upload functionality
-- Custom cart → checkout → payment flow
-- UPS shipping integration
-- Multiple payment options (Stripe, QuickBooks, Net-30, Bank Transfer)
-- CMS module for content management
-- Email template system
-- OAuth2 & JWT authentication
-- Private & public REST APIs
+**Key Features**
+- Live GPS + ETA  
+- Route & stop management  
+- Bus scheduling  
+- AI passenger headcount (Python)  
+- Driver/vehicle dashboards  
+- Leaflet/OSM live tracking  
+- KM & passenger analytics  
 
-**Tech Stack:** React · Node.js · Express · MongoDB · Stripe · UPS · QuickBooks
-
-**Access:** Admin Panel Demo | Front-End Demo
+**Tech Stack**: Laravel · MySQL · Vue.js · Python · Leaflet/OSM  
 
 ---
 
-### **Finance CRM – Loan & Expense Management System** 💰
-Comprehensive finance management system for loan account creation, EMI scheduling, recurring savings, expense tracking, customer documentation, and automated reminders.
+### **Pass Tooling – B2B E-Commerce Platform** 🛒  
+Enterprise B2B system with shipping, payments, CMS & role-based admin.
 
-**Key Features:**
-- Loan account creation and management
-- EMI scheduling (daily, weekly, monthly options)
-- Recurring savings management
-- Customer documentation system
-- Expense tracking and reporting
-- Automated reminders via queue jobs
-- Role-based admin panel
-- JWT authentication
+**Key Features**
+- Product & variation management  
+- Bulk upload system  
+- Custom checkout flow  
+- UPS shipping integration  
+- Stripe / QuickBooks / Net-30 payments  
+- CMS module & email templates  
+- OAuth2 + JWT authentication  
+- Public + private APIs  
 
-**Tech Stack:** Laravel · MySQL · React.js · Vue.js
+**Tech Stack**: React · Node.js · Express · MongoDB · Stripe · UPS · QuickBooks  
+
+---
+
+### **Finance CRM – Loan & Expense Management** 💰  
+Loan, EMI, savings, expenses & automation dashboard.
+
+**Key Features**
+- Loan accounts  
+- EMI scheduling  
+- Recurring savings  
+- Documentation uploads  
+- Expense tracking  
+- Queue-based reminders  
+- Role-based admin  
+- JWT authentication  
+
+**Tech Stack**: Laravel · MySQL · React.js · Vue.js  
 
 ---
 
 ## 💼 Professional Experience
 
-**Digitize Infosystem** — Full-Stack Developer *(Mar 2023 – Present)*
-- Full-stack developer building production-ready applications using MERN and Laravel
-- Skilled in clean frontend interfaces, scalable backend architectures, REST APIs, and database design
-- Focus on end-to-end deployment and modern JavaScript development
+### **Digitize Infosystem** — Full-Stack Developer *(Mar 2023 – Present)*
+- MERN + Laravel full-stack development  
+- API architecture and backend design  
+- Responsive frontend development  
+- Deployment & performance optimization  
 
-**Ableye Technologies** — Web / WordPress Developer *(Aug 2021 – Feb 2023)*
-- Developed responsive, user-friendly websites using HTML, CSS, JavaScript, and WordPress
-- Created custom themes, animations, and CMS solutions with focus on performance and clean UI
-
----
-
-## 🎓 Education
-
-**B.COM** – Jasani Arts & Commerce College, Saurashtra University *(2020–2023)*
+### **Ableye Technologies** — Web / WordPress Developer *(Aug 2021 – Feb 2023)*
+- Custom WordPress themes  
+- UI/UX improvements  
+- Responsive HTML/CSS/JS development  
+- Performance optimization  
 
 ---
+
+<div align="center">
 
 ## 📬 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/hiren-bhadeliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhadeliyahiren.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HirenBhadeliya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiren-bhadeliya)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadeliyahiren.dev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HirenBhadeliya)  
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge" />
-  </a>
-</p>
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge)](https://drive.google.com/file/d/1pmIuNVvEaPyhzm61CXrEC3btWKL3BTdu/view?usp=sharing)
 
 ---
 
-<p align="center">
-  <strong>⭐ Thanks for visiting!</strong>
-</p>
+⭐ **Thanks for visiting!**
+
+</div>
